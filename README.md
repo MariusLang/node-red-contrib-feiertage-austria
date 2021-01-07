@@ -1,4 +1,4 @@
-![banner](https://github.com/MariusLang/node-red-contrib-feiertage/blob/master/img/feiertage_banner_at.svg)
+![banner](https://github.com/MariusLang/node-red-contrib-feiertage-austria/blob/master/img/feiertage_banner_at.svg)
 # Node Red Feiertage Austria
 
 [![NPM](https://img.shields.io/npm/v/node-red-contrib-feiertage-austria)](https://www.npmjs.com/package/node-red-contrib-feiertage-austria)
