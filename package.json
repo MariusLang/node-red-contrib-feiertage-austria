@@ -44,7 +44,7 @@
     "name": "node-red-contrib-feiertage-austria",
     "node-red": {
       "nodes": {
-        "feiertage": "feiertage-austria.js"
+        "feiertageAT": "feiertage-austria.js"
       }
     },
     "repository": {

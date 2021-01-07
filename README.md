@@ -20,7 +20,7 @@ country | node-red node
 --- | ---
 Germany | [node-red-contrib-feiertage-germany](https://github.com/MariusLang/node-red-contrib-feiertage)
 Austria | [node-red-contrib-feiertage-austria](https://github.com/MariusLang/node-red-contrib-feiertage-austria)
-Switzerland | [node-red-contrib-feiertage-switzerland](https://github.com/MariusLang/node-red-contrib-feiertage-austria)
+Switzerland | *comming soon*
 Or you want all in one node (Germany, Austria, Switzerland) | [node-red-contrib-feiertage](https://github.com/MariusLang/node-red-contrib-feiertage)
 
 ## Installation
@@ -42,7 +42,7 @@ Now you should see this interface. Navigate to **5 Localisation Options** and pr
 ![pi_settings_1](https://github.com/MariusLang/node-red-contrib-feiertage-austria/blob/master/img/pi_settings_1.PNG)
 
 Here you can set your **Local** and **Timezone**.
-If your localisation is Germany chose **de_DE.UTF-8** as your local and **Europe** --> **Berlin** as your timezone.
+If your localisation is Austria chose **de_AT.UTF-8** as your local and **Europe** --> **Wien** as your timezone.
 
 ![pi_settings_2](https://github.com/MariusLang/node-red-contrib-feiertage-austria/blob/master/img/pi_settings_2.PNG)
 
