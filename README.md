@@ -3,13 +3,13 @@
 
 [![NPM](https://img.shields.io/npm/v/node-red-contrib-feiertage-austria)](https://www.npmjs.com/package/node-red-contrib-feiertage-austria)
 [![NPM_downloads](https://img.shields.io/npm/dm/node-red-contrib-feiertage-austria)](https://www.npmjs.com/package/node-red-contrib-feiertage-austria)
-[![issues](https://img.shields.io/github/issues/mariuslang/node-red-contrib-feiertage-austria)](https://github.com/MariusLang/node-red-contrib-feiertage/issues-austria)
+[![issues](https://img.shields.io/github/issues/mariuslang/node-red-contrib-feiertage-austria)](https://github.com/MariusLang/node-red-contrib-austria/issues)
 
 [![NPM](https://nodei.co/npm/node-red-contrib-feiertage-austria.png?compact=true)](https://nodei.co/npm/node-red-contrib-feiertage-austria/)
 
 The Node Red **Feiertage Austria** node is the ultimative node to get informations about austrian holidays.
 
-This node was splitted out of the [node-red-contrib-feiertage node](https://github.com/MariusLang/node-red-contrib-feiertage). This Node only contains Austrian holidays.
+This node was splitted out of the [node-red-contrib-feiertage node](https://github.com/MariusLang/node-red-contrib-feiertage). This Node only contains **Austrian** holidays.
 To get this node for an other country read the point below.
 
 ## You're living in Germany, Austria or Switzerland?
