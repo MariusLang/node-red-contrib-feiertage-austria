@@ -9,6 +9,8 @@
 
 The Node Red **Feiertage Austria** node is the ultimative node to get informations about austrian holidays.
 
+Is there any holiday missing? Write an issue! I'm going to add this holiday for you.
+
 This node was splitted out of the [node-red-contrib-feiertage node](https://github.com/MariusLang/node-red-contrib-feiertage). This Node only contains **Austrian** holidays.
 To get this node for an other country read the point below.
 
