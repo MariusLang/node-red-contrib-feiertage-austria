@@ -1,6 +1,8 @@
 {
   "author": "Marius Lang <lang.marius@t-online.de>",
-  "dependencies": {},
+  "dependencies": {
+    "getfeiertage.js": "1.0.0"
+  },
   "deprecated": false,
   "description": "NodeRED node to get austrian holidays and own special dates",
   "keywords": [
@@ -44,7 +46,7 @@
     "type": "git",
     "url": "git+https://github.com/MariusLang/node-red-contrib-feiertage-austria.git"
   },
-  "version": "0.9.2",
+  "version": "1.0.2",
   "bugs": {
     "url": "https://github.com/MariusLang/node-red-contrib-feiertage-austria/issues"
   },
