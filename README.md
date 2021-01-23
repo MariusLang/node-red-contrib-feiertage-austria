@@ -71,12 +71,12 @@ The output can be used to listen to automatic and user triggered events. Every d
 
 Holidays are always listed into an array[3].
 
-index | output
+key | output
 --- | ---
-0 | identifier
-1 | name
-2 | date (yyyy-mm-dd)
-3 | german date (dd.mm.yyyy)
+id | identifier
+name | name
+dateObj | date (yyyy-mm-dd)
+dateDE | german date (dd.mm.yyyy)
 
 ### Own Holidays
 You can chose up to 10 own dates. Select the **day** in the first dropdown-menu and the **month** in the second. Chose a name for your holiday and type it into the input field. Don't forget to hit the checkbox to enable your own holiday. Pay attention: The node does NOT validate your own dates. So if you set the 30 febrary or the 31 april as date you wont't get an error message.
