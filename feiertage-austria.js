@@ -2,7 +2,7 @@
 /* eslint-disable import/no-unresolved */
 /* eslint-disable global-require */
 // eslint-disable-next-line func-names
-module.exporst = function (RED) {
+module.exports = function (RED) {
   function feiertageAT(config) {
     RED.nodes.createNode(this, config);
     const node = this;
