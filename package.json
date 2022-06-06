@@ -27,7 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/MariusLang/node-red-contrib-feiertage-austria.git"
   },
-  "version": "1.4.0",
+  "version": "1.4.2",
   "bugs": {
     "url": "https://github.com/MariusLang/node-red-contrib-feiertage-austria/issues"
   },
