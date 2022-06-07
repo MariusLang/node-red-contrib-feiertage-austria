@@ -136,8 +136,20 @@ module.exports = function (RED) {
     function setCurrentDate() {
       const currentDate = new Date(); // create current date
       currentYear = currentDate.getFullYear(); // set current year
-      currentMonth = currentDate.getMonth() + 1; // set current month
-      currentDay = currentDate.getDate(); // set current day
+      const mCurrentMonth = currentDate.getMonth() + 1; // set current month
+      if (mCurrentMonth.toString().length === 1) {
+        currentMonth = `0${mCurrentMonth}`;
+      } else {
+        currentMonth = mCurrentMonth;
+      }
+
+      const mCurrentDay = currentDate.getDate(); // set current day
+      if (mCurrentDay.toString().length === 1) {
+        currentDay = `0${mCurrentDay}`;
+      } else {
+        currentDay = mCurrentDay;
+      }
+
       currentHour = currentDate.getHours(); // set current hour
       currentMinute = currentDate.getMinutes(); // set current minute
     }
