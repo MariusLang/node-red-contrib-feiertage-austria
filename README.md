@@ -8,7 +8,7 @@
 
 [![NPM](https://nodei.co/npm/node-red-contrib-feiertage-austria.png?compact=true)](https://nodei.co/npm/node-red-contrib-feiertage-austria/)
 
-The Node Red **Feiertage Austria** node is the ultimative node to get information about austrian holidays.
+The Node Red **Feiertage Austria** node is the ultimate node to get information about austrian holidays.
 
 Is there any holiday missing? Write an issue! I'm going to add this holiday for you.
 
@@ -33,7 +33,7 @@ npm install node-red-contrib-feiertage-austria
 
 ## Getting Started
 
-At first, it's important to check that you have picked the rigth localisation and timezone on your device. Below you can
+At first, it's important to check that you have picked the right localisation and timezone on your device. Below you can
 find a manual how to change those settings on to a RaspberryPi.
 
 Login into your Pi. Then open the settings with this command.
